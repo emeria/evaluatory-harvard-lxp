@@ -1,6 +1,6 @@
 {
   urls: [
-    "https://hub.qa.lxp.huit.harvard.edu/auth,
+    "https://hub.qa.lxp.huit.harvard.edu/auth",
     "https://harvard.edu",
   ],
 }
