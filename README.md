@@ -1,4 +1,4 @@
-# Evaluatory
+# Evaluatory (Harvard LXP)
 
 [![npm](https://img.shields.io/npm/v/evaluatory?style=flat-square)](https://www.npmjs.com/package/evaluatory)
 [![Build](https://img.shields.io/github/actions/workflow/status/darekkay/evaluatory/ci.yml?branch=master&style=flat-square)](https://github.com/darekkay/evaluatory/actions/workflows/ci.yml)
