@@ -1,14 +1,6 @@
 {
   urls: [
-    "https://example.com",
-    "https://twitter.com",
-    "https://medium.com/",
-    "https://news.ycombinator.com/",
-    "https://webaim.org/",
-    "https://www.a11yproject.com/",
-    "https://darekkay.com",
-    "https://darekkay.com/evaluatory/demo/",
-    "https://darekkay.com/evaluatory/demo/4.html",
-    "https://www.11ty.dev/docs/",
+    "https://hub.qa.lxp.huit.harvard.edu/auth,
+    "https://harvard.edu",
   ],
 }
